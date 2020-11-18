@@ -1,6 +1,10 @@
-![Cover Photo](./Assets/next+react.jpeg)
+<!-- ![Cover Photo](./Assets/n-w.png) -->
+
+<img src="./Assets/next+react.jpeg" data-canonical-src="./Assets/next+react.jpeg" width="100%" height="400" />
 
 # Abel Sintaro
+
+<img src="./Assets/profile.jpg" data-canonical-src="./Assets/profile.jpg" width="300" height="300" />
 
 ## Background
 
