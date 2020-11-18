@@ -26,6 +26,6 @@ Hello friend, my name is Abel. I am a network engineer by day and a web develope
 Let's connect, you can find me here:
 
 - [My website](https://www.abel-sintaro.tech)
-- [Twitter](https://twitter/AbelSintaro)
+- [Twitter](https://twitter.com/AbelSintaro)
 - [LinkedIn](https://www.linkedin.com/in/abel-sintaro/)
 - [E-mail](mailto:hi@abel-sintaro.tech)
