@@ -8,7 +8,7 @@ Hello there :wave:
 
 Let's connect, you can find me here:
 
-- [Site](https://abel-sintaro.tech)
+- [Site](https://abel.st)
 - [Twitter](https://twitter.com/AbelSintaro)
 - [LinkedIn](https://www.linkedin.com/in/abel-sintaro/)
-- [E-mail](mailto:hi@abel-sintaro.tech)
+- [E-mail](mailto:hi@abel.st)
