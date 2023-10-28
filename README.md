@@ -10,4 +10,4 @@ Let's connect, you can find me here:
 
 - [Site](https://abelsintaro.com)
 - [LinkedIn](https://www.linkedin.com/in/abel-sintaro/)
-- [E-mail](mailto:hi@abel.st)
+- [E-mail](mailto:hi@abelsintaro.com)
