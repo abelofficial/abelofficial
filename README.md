@@ -9,5 +9,5 @@ Hello there :wave:
 Let's connect, you can find me here:
 
 - [Site](https://abelsintaro.com)
-- [LinkedIn](https://www.linkedin.com/in/abel-sintaro/)
+- [LinkedIn](https://www.linkedin.com/in/abelsintaro/)
 - [E-mail](mailto:hi@abelsintaro.com)
